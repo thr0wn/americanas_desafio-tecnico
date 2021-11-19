@@ -1,0 +1,109 @@
+﻿Mes;Departamento;UF;Item;Vendas
+2018-06;Cadeiras;SP;1;590
+2018-06;Cadeiras;SP;2;439
+2018-06;Cadeiras;SP;3;292
+2018-07;Cadeiras;SP;1;1469
+2018-07;Cadeiras;SP;2;1333
+2018-07;Cadeiras;SP;3;1143
+2018-08;Cadeiras;SP;1;1178
+2018-08;Cadeiras;SP;2;1026
+2018-08;Cadeiras;SP;3;865
+2018-09;Cadeiras;SP;1;732
+2018-09;Cadeiras;SP;2;571
+2018-09;Cadeiras;SP;3;443
+2018-06;Cadeiras;PE;1;260
+2018-06;Cadeiras;PE;2;171
+2018-06;Cadeiras;PE;3;85
+2018-07;Cadeiras;PE;1;783
+2018-07;Cadeiras;PE;2;718
+2018-07;Cadeiras;PE;3;609
+2018-08;Cadeiras;PE;1;610
+2018-08;Cadeiras;PE;2;527
+2018-08;Cadeiras;PE;3;430
+2018-09;Cadeiras;PE;1;344
+2018-09;Cadeiras;PE;2;260
+2018-09;Cadeiras;PE;3;179
+2018-06;Cadeiras;MT;1;173
+2018-06;Cadeiras;MT;2;135
+2018-06;Cadeiras;MT;3;94
+2018-07;Cadeiras;MT;1;344
+2018-07;Cadeiras;MT;2;341
+2018-07;Cadeiras;MT;3;286
+2018-08;Cadeiras;MT;1;272
+2018-08;Cadeiras;MT;2;272
+2018-08;Cadeiras;MT;3;221
+2018-09;Cadeiras;MT;1;200
+2018-09;Cadeiras;MT;2;161
+2018-09;Cadeiras;MT;3;135
+2018-06;Maquinas Fotogr†ficas;SP;1;260
+2018-06;Maquinas Fotogr†ficas;SP;2;236
+2018-06;Maquinas Fotogr†ficas;SP;3;177
+2018-07;Maquinas Fotogr†ficas;SP;1;506
+2018-07;Maquinas Fotogr†ficas;SP;2;522
+2018-07;Maquinas Fotogr†ficas;SP;3;414
+2018-08;Maquinas Fotogr†ficas;SP;1;420
+2018-08;Maquinas Fotogr†ficas;SP;2;392
+2018-08;Maquinas Fotogr†ficas;SP;3;356
+2018-09;Maquinas Fotogr†ficas;SP;1;325
+2018-09;Maquinas Fotogr†ficas;SP;2;242
+2018-09;Maquinas Fotogr†ficas;SP;3;218
+2018-06;Maquinas Fotogr†ficas;PE;1;131
+2018-06;Maquinas Fotogr†ficas;PE;2;113
+2018-06;Maquinas Fotogr†ficas;PE;3;68
+2018-07;Maquinas Fotogr†ficas;PE;1;307
+2018-07;Maquinas Fotogr†ficas;PE;2;238
+2018-07;Maquinas Fotogr†ficas;PE;3;217
+2018-08;Maquinas Fotogr†ficas;PE;1;264
+2018-08;Maquinas Fotogr†ficas;PE;2;202
+2018-08;Maquinas Fotogr†ficas;PE;3;183
+2018-09;Maquinas Fotogr†ficas;PE;1;132
+2018-09;Maquinas Fotogr†ficas;PE;2;111
+2018-09;Maquinas Fotogr†ficas;PE;3;95
+2018-06;Maquinas Fotogr†ficas;MT;1;126
+2018-06;Maquinas Fotogr†ficas;MT;2;144
+2018-06;Maquinas Fotogr†ficas;MT;3;99
+2018-07;Maquinas Fotogr†ficas;MT;1;274
+2018-07;Maquinas Fotogr†ficas;MT;2;251
+2018-07;Maquinas Fotogr†ficas;MT;3;249
+2018-08;Maquinas Fotogr†ficas;MT;1;171
+2018-08;Maquinas Fotogr†ficas;MT;2;228
+2018-08;Maquinas Fotogr†ficas;MT;3;200
+2018-09;Maquinas Fotogr†ficas;MT;1;151
+2018-09;Maquinas Fotogr†ficas;MT;2;154
+2018-09;Maquinas Fotogr†ficas;MT;3;147
+2018-06;Bolas de Gude;SP;1;706
+2018-06;Bolas de Gude;SP;2;633
+2018-06;Bolas de Gude;SP;3;519
+2018-07;Bolas de Gude;SP;1;1243
+2018-07;Bolas de Gude;SP;2;1160
+2018-07;Bolas de Gude;SP;3;1131
+2018-08;Bolas de Gude;SP;1;1101
+2018-08;Bolas de Gude;SP;2;1001
+2018-08;Bolas de Gude;SP;3;857
+2018-09;Bolas de Gude;SP;1;811
+2018-09;Bolas de Gude;SP;2;703
+2018-09;Bolas de Gude;SP;3;640
+2018-06;Bolas de Gude;PE;1;735
+2018-06;Bolas de Gude;PE;2;635
+2018-06;Bolas de Gude;PE;3;548
+2018-07;Bolas de Gude;PE;1;1398
+2018-07;Bolas de Gude;PE;2;1306
+2018-07;Bolas de Gude;PE;3;1189
+2018-08;Bolas de Gude;PE;1;1184
+2018-08;Bolas de Gude;PE;2;1075
+2018-08;Bolas de Gude;PE;3;963
+2018-09;Bolas de Gude;PE;1;871
+2018-09;Bolas de Gude;PE;2;763
+2018-09;Bolas de Gude;PE;3;654
+2018-06;Bolas de Gude;MT;1;479
+2018-06;Bolas de Gude;MT;2;443
+2018-06;Bolas de Gude;MT;3;357
+2018-07;Bolas de Gude;MT;1;747
+2018-07;Bolas de Gude;MT;2;710
+2018-07;Bolas de Gude;MT;3;632
+2018-08;Bolas de Gude;MT;1;639
+2018-08;Bolas de Gude;MT;2;706
+2018-08;Bolas de Gude;MT;3;648
+2018-09;Bolas de Gude;MT;1;550
+2018-09;Bolas de Gude;MT;2;512
+2018-09;Bolas de Gude;MT;3;380
