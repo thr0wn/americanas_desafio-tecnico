@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/cintia-shinoda/americanas_teste-tecnico/blob/master/imagens/logo-americanas.jpg" alt="logo-americanas"/>
+<img src="https://github.com/cintia-shinoda/americanas_teste-tecnico/blob/master/imagens/logo-americanas.png" alt="logo-americanas"/>
 </p>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
