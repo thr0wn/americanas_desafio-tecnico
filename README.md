@@ -1,4 +1,4 @@
-# Teste Técnico - Analista de Dados Jr.
+# Desafio Técnico - Analista de Dados Jr.
 
 <p align="center">
 <img src="https://github.com/cintia-shinoda/americanas_teste-tecnico/blob/master/imagens/logo-americanas.png" alt="logo-americanas"/>
@@ -8,6 +8,7 @@
 ## Ferramentas
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
